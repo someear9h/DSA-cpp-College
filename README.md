@@ -1,5 +1,3 @@
-Here's a **README.md** file draft for your repository:
-
 
 # Revision of C++ Concepts and Data Structures
 
@@ -131,6 +129,3 @@ Contributions, suggestions, and improvements are always welcome. If you have ide
 
 ### 📬 Contact
 If you have any questions, feel free to reach out!
-
----
-Happy Coding! 🚀
